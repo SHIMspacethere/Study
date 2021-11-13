@@ -1,0 +1,259 @@
+.mainscreen {
+    width: 1920px;
+    height: 1080px;
+    background-color: #fff;
+}
+
+.mainBackground {
+    width: 1920px;
+    height: 42.6px;
+    margin: 0 0 19.4px;
+    padding: 12px 24px 14.6px 1847px;
+    border: solid 1px #f5f5f5;
+    background-color: #dcffff;
+}
+
+/* ------------ top-nav ---------- */
+
+/*
+.globalLink {
+    width: 345px;
+    height: 38px;
+    margin: 6.8px 296.5px 41.4px 0;
+    -webkit-text-stroke: 1px #666;
+    font-family: SitkaSmall;
+    font-size: 48px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.46;
+    letter-spacing: normal;
+    text-align: left;
+    color: #202020;
+}
+
+.listSelector  {
+    width: 56px;
+    height: 56px;
+    margin: 19.4px 1288px 33.6px 576px;
+    padding: 12px 9px;
+    opacity: 0.5;
+    border: solid 1px #f5f5f5;
+    background-color: #f5f5f5;
+}
+
+.top-service {
+    width: 84px;
+    height: 23px;
+    font-family: LGSmartUI;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.15;
+    letter-spacing: 0.8px;
+    text-align: left;
+    color: #202020;
+}
+
+.top-notice {
+    width: 67px;
+    height: 23px;
+    font-family: LGSmartUI;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.15;
+    letter-spacing: 0.8px;
+    text-align: left;
+    color: #202020;
+}
+
+.top-transaction {
+    width: 67px;
+    height: 23px;
+    font-family: LGSmartUI;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.15;
+    letter-spacing: 0.8px;
+    text-align: left;
+    color: #202020;
+}
+
+.solution {
+    width: 50px;
+    height: 23px;
+    font-family: LGSmartUI;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.15;
+    letter-spacing: 0.8px;
+    text-align: left;
+    color: #202020;
+}
+
+.top-search-background {
+    width: 256px;
+    height: 48px;
+    margin: 0 0 38.2px 61px;
+    padding: 12px 20px 12.9px;
+    background-color: #ebebeb;
+}
+
+.top-search-title {
+    width: 65px;
+    height: 20px;
+    margin: 0 130px 3.1px 0;
+    opacity: 0.45;
+    font-family: LGSmartUI;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.06;
+    letter-spacing: 0.68px;
+    text-align: left;
+    color: #202020;
+}
+
+.top-topLine {
+    width: 1920px;
+    height: 0;
+    margin: 33.6px 0 0;
+    opacity: 0.44;
+    border: solid 1px #707070;
+}
+
+*/
+
+/* ------- Title ------ */
+.title-background {
+    width: 337px;
+    height: 164px;
+    margin: 8.5px 43.9px 453.4px 33.1px;
+    padding: 32.5px 40.6px 30.5px 45.4px;
+    background-color: #ebebeb;
+}
+
+.title-globalLink {
+    width: 251px;
+    height: 101px;
+    font-family: LGSmartUI;
+    font-size: 32px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: -1.6px;
+    text-align: center;
+    color: #191919;
+}
+
+.title-globalLink-text {
+    font-size: 50px;
+    letter-spacing: -2.5px;
+    text-align: center;
+}
+
+.mainTable {
+    width: 1108px;
+    height: 553px;
+    text-align: center;
+}
+
+.mainTable-search {
+    width: 69px;
+    height: 20px;
+    margin: 11.2px 11px 14.9px 0;
+    font-family: LGSmartUI;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.06;
+    letter-spacing: 0.68px;
+    text-align: left;
+    color: #202020;
+}
+
+.mainTable-search-icon {
+    width: 21px;
+    height: 20px;
+    object-fit: contain;
+}
+
+.mainTable-search-background {
+    width: 236.7px;
+    height: 46.1px;
+    margin: 0 0 0 11px;
+    padding: 14px 20px 12px 195.7px;
+    background-color: #f5f5f5;
+}
+
+.mainTable-numList-table {
+    width: 356px;
+    height: 40px;
+    margin: 44px 3px 61.5px 305px;
+    padding: 8px 19px 9px 15px;
+    opacity: 0.52;
+    border: solid 1px #707070;
+    background-color: #fff;
+}
+
+.mainTable-numList-num {
+    width: 11px;
+    height: 30px;
+    margin: 4.2px 0 4.5px 15.4px;
+    font-family: LGSmartUI;
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #202020;
+}
+
+
+/* ----------------- bottom ---------------*/
+
+.bottom-background {
+    width: 1920px;
+    height: 81px;
+    margin: 847.4px 0 0;
+    padding: 18px 127px 15px 46px;
+    border: solid 1px #707070;
+    background-color: #dcffff;
+}
+
+.bottom-button-background {
+    width: 48px;
+    height: 48px;
+    padding: 14px;
+    background-color: #ebebeb;
+}
+
+.bottom-button-instagram {
+    width: 20px;
+    height: 20px;
+    background-color: #202020;
+}
+
+.bottom-button-facebook {
+    width: 10px;
+    height: 20px;
+    background-color: #202020;
+}
+
+.bottom-button-twitter {
+    width: 20px;
+    height: 16px;
+    background-color: #202020;
+}
